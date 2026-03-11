@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="center">Hola, soy Eduwin! 👋</h1>
 
-<!--
-**edhersan/edhersan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <em>Desarrollador enfocado en soluciones técnicas creativas y persistencia de datos. Especializado en convertir retos en aplicaciones funcionales. En constante formacion y aprendizaje.</em>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Stack Tecnológico
+
+| Categoría | Tecnologías y Herramientas |
+| :--- | :--- |
+| **Backend** | Python, FastAPI, Node.js, Java, C#, C++ |
+| **Frontend** | JavaScript, React, HTML/CSS, Bootstrap, Tkinter |
+| **Bases de Datos** | SQLite, MongoDB |
+| **Entorno/DevOps** | VS Code, GitKraken, DBeaver, Postman |
+
+---
+
+### 📈 Mi progreso
+* 🚀 **Enfoque:** Resolución de problemas y aprendizaje continuo.
+* 🎓 **Formación:** Estudiante de Ingeniería de Software.
+* 📍 **Ubicación:** Bogotá, Colombia.
+
+---
+
+### 📫 Contacto
+www.linkedin.com/in/edwin-sanchez-864203190
+edhersan@gmail.com
