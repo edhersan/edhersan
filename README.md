@@ -25,5 +25,6 @@
 ---
 
 ### 📫 Contacto
-www.linkedin.com/in/edwin-sanchez-864203190
-edhersan@gmail.com
+* www.linkedin.com/in/edwin-sanchez-864203190
+* edhersan@gmail.com
+* Abierto a colaboraciones freelance y proyectos desafiantes.
